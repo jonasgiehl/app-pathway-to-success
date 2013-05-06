@@ -3,44 +3,43 @@ Webdevelopment Rules :: The Pathways to Success
 
 ###1. Application as a Module
   * Easy to export application
-	* Avoid application variables for system paths
-	* DO NOT create rules for files path in system, try to keep it simple and create a directory inside the application
+  * Avoid application variables for system paths
+  * DO NOT create rules for files path in system, try to keep it simple and create a directory inside the application
 
 ###2. Unit Tests
   * Always apply unit tests when developing (coberture > 85%)
 
 ###3. Design Patterns
-	* Use design patterns for solving your architectural problems
-	* Follow ORM and MV* conventions
-	* TDD or BDD
+  * Use design patterns for solving your architectural problems
+  * Follow ORM and MV* conventions
+  * TDD or BDD
 
-###4. Optimize front-end first	
-	* Javascript is a functional language, make the right use of it
-	* Minify your scripts/stylesheets
-	* Don't block your browser. Reduce your http requests
-	* Load 3rd party content asynchronously
-	* Follow PageSpeed and YSlow metrics for keeping your website fast
-	* Use css sprites
-	* Avoid writing HTML in Javascript, use a Template Engine
+###4. Optimize front-end first 
+  * Javascript is a functional language, make the right use of it
+  * Minify your scripts/stylesheets
+  * Don't block your browser. Reduce your http requests
+  * Load 3rd party content asynchronously
+  * Follow PageSpeed and YSlow metrics for keeping your website fast
+  * Use css sprites
+  * Avoid writing HTML in Javascript, use a Template Engine
 
 ###5. Cache
-	* Enable smart cache in your server
-	* Try out Varnish cache
+  * Enable smart cache in your server
+  * Try out Varnish cache
 
 ###6. Continuous Integration
-	* Accomplish the perfect workflow, use TravisCI in your project (or any well documented CI service)
+  * Accomplish the perfect workflow, use TravisCI in your project (or any well documented CI service)
 
 ###7. Development Tools
-	* Use the best of your IDE (or text editor)
+  * Use the best of your IDE (or text editor)
 
 ###8. Web Projects
-	* Follow Projects on Github
-	* Twitter Bootstrap
-	* HTML5 Bolierplate
-	* Normalize
-	* Follow Weekly News
-
-
+  * Follow Projects on Github
+  * Twitter Bootstrap
+  * HTML5 Bolierplate
+  * Normalize
+  * Follow Weekly News
+  
 
 ##Resources
 
