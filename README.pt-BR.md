@@ -73,7 +73,7 @@ Esqueça o estresse de testar sua aplicação Web (integrado com SauceLabs e Sel
 ####[LessCSS](http://lesscss.org/) / [Sass](http://sass-lang.com/)####
 Linguagem Dinâmica de stylesheet.
 
-####[estilo.js](http://nodejs.org/)####
+####[node.js](http://nodejs.org/)####
 Plataforma construida sobre a engine Javascript do chrome para construir aplicações de rede rápidas e escaláveis.
 
 ####[Npm](https://npmjs.org/)####
