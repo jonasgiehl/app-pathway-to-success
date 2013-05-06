@@ -51,34 +51,32 @@ Webdevelopment Rules :: The Pathways to Success
 
 ##Resources
 
-__Javascript - http://jstherightway.com/__
-> Write Javascript code correctly
+####[Javascript](http://jstherightway.com/)####
+ Write Javascript code correctly.
 
-__Browser Diet - http://browserdiet.com/__
-> Definitive front-end performance guide
+####[Browser Diet](http://browserdiet.com/)####
+ Definitive front-end performance guide.
 
-__Javascript/HTML5/BrazilJS Weekly - http://javascriptweekly.com/__
-> A weekly e-mail round-up of JavaScript news and articles.
+####[Javascript/HTML5/BrazilJS Weekly](http://javascriptweekly.com/)####
+ A weekly e-mail round-up of JavaScript news and articles.
 
-__Sublime Text - http://www.sublimetext.com/__
-> The text editor you'll fall in love with
+####[Sublime Text](http://www.sublimetext.com/)####
+The text editor you'll fall in love with.
 
-__GruntJS - http://gruntjs.com/getting-started__
-__Yeoman - http://yeoman.io/__
-> In one word: automation. Run tasks like minification, compilation, unit testing, linting.
+####[GruntJS](http://gruntjs.com/getting-started) / [Yeoman](http://yeoman.io/)####
+In one word: automation. Run tasks like minification, compilation, unit testing, linting.
 
-__Intern - http://theintern.io/__
-> Takes the stress out of testing your Web app (integrate with SauceLabs or Selenium).
+####[Intern](http://theintern.io/)####
+Takes the stress out of testing your Web app (integrate with SauceLabs or Selenium).
 
-__LessCSS - http://lesscss.org/__
-__Sass - http://sass-lang.com/__
-> Dynamic stylesheet language
+####[LessCSS](http://lesscss.org/) / [Sass](http://sass-lang.com/)####
+Dynamic stylesheet language.
 
-__Node.js - http://nodejs.org/__
-> Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+####[Node.js](http://nodejs.org/)####
+Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 
-__Npm - https://npmjs.org/__
-> Extends for Node Packaged Modules. Node.js application repository.
+####[Npm](https://npmjs.org/)####
+Extends for Node Packaged Modules. Node.js application repository.
 
-__Template Engine - http://garann.github.io/template-chooser/__
-> Choose the Template Engine right for your needs
+####[Template Engine Chooser](http://garann.github.io/template-chooser/)####
+Choose the Template Engine right for your needs.
