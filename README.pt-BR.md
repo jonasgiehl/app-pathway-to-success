@@ -1,4 +1,4 @@
-Webdevelopment :: Regras de Desenvolvimento :: Caminho para o Sucesso
+Desenvolvimento Web :: Caminho para o Sucesso
 ======================
 
 ###1. Aplicação como Módulo
