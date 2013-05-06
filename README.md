@@ -51,34 +51,34 @@ Webdevelopment Rules :: The Pathways to Success
 
 ##Resources
 
-Javascript - http://jstherightway.com/
+__Javascript - http://jstherightway.com/__
 > Write Javascript code correctly
 
-Browser Diet - http://browserdiet.com/
+__Browser Diet - http://browserdiet.com/__
 > Definitive front-end performance guide
 
-Javascript/HTML5/BrazilJS Weekly - http://javascriptweekly.com/
+__Javascript/HTML5/BrazilJS Weekly - http://javascriptweekly.com/__
 > A weekly e-mail round-up of JavaScript news and articles.
 
-Sublime Text - http://www.sublimetext.com/
+__Sublime Text - http://www.sublimetext.com/__
 > The text editor you'll fall in love with
 
-GruntJS - http://gruntjs.com/getting-started
-Yeoman - http://yeoman.io/
+__GruntJS - http://gruntjs.com/getting-started__
+__Yeoman - http://yeoman.io/__
 > In one word: automation. Run tasks like minification, compilation, unit testing, linting.
 
-Intern - http://theintern.io/
+__Intern - http://theintern.io/__
 > Takes the stress out of testing your Web app (integrate with SauceLabs or Selenium).
 
-LessCSS - http://lesscss.org/
-Sass - http://sass-lang.com/
+__LessCSS - http://lesscss.org/__
+__Sass - http://sass-lang.com/__
 > Dynamic stylesheet language
 
-Node.js - http://nodejs.org/
+__Node.js - http://nodejs.org/__
 > Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
 
-Npm - https://npmjs.org/
+__Npm - https://npmjs.org/__
 > Extends for Node Packaged Modules. Node.js application repository.
 
-Template Engine - http://garann.github.io/template-chooser/
+__Template Engine - http://garann.github.io/template-chooser/__
 > Choose the Template Engine right for your needs
