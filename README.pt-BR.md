@@ -19,10 +19,11 @@ e baseie a localização dos arquivos a partir do diretório base da aplicação
 
 
 ###4. Optimização Front-end
-  * Javascript é uma linguagem funcionar, beneficie-se disso
-  * Minifique seus scripts/stylesheets
-  * Não bloqueio o carregamento de seu navegador. Reduza as requisições HTTP
-  * Carrege conteúdo de terceiros de maneira assíncrona
+  * Javascript é uma linguagem funcional, beneficie-se disso
+  * Compacte seus scripts/stylesheets
+  * Não bloqueie o carregamento de seu navegador. Reduza as requisições HTTP
+  * Carrege os stylesheets no início da página e os scripts no final, sempre que possível.
+  * Carregue conteúdo de terceiros de maneira assíncrona
   * Utilize ferramentas de métrica (como PageSpeed e YSlow) para garantir a velocidade de seu website
   * Utilize CSS Sprites
   * Evite escrever HTML em seu Javascript, utilize uma Template Engine
@@ -38,7 +39,7 @@ e baseie a localização dos arquivos a partir do diretório base da aplicação
 
 
 ###7. Ferramentas de Desenvolvimento
-  * Utilize os recursos que seu IDE (ou editor de textos) lhe oferece
+  * Utilize os recursos que sua IDE (ou editor de textos) lhe oferece
   * Conheça ferramentas e plugins para facilitar seu trabalho
 
 
@@ -81,3 +82,6 @@ Repositório de aplicações Node.js
 
 ####[Template Engine Chooser](http://garann.github.io/template-chooser/)####
 Escolha a Template Engine correta conforme a necessidade de seu projeto.
+
+####[PHP](http://www.phptherightway.com/)####
+Escreva PHP da maneira correta.
